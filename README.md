@@ -1,4 +1,6 @@
 # Run `aspell` on Docker
+[![Docker Build Status](https://img.shields.io/docker/build/mahito1594/aspell)](https://hub.docker.com/r/mahito1594/aspell/builds)
+[![Docker Automated build](https://img.shields.io/docker/automated/mahito1594/aspell)](https://hub.docker.com/r/mahito1594/aspell)
 
 This builds an image which contains [GNU Aspell](http://aspell.net/); install GNU Aspell v.0.60.7(released July, 2019) on Alpin Linux v3.10.
 The image include English, French and German dictionaries.
