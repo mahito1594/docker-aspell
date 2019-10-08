@@ -41,3 +41,6 @@ $ docker run --rm -i -v $PWD:/work mahito1594/aspell list --lang en --mode tex <
 ## Acknowledgement
 - Docker
 - GNU Aspell
+
+## LICENSE
+Apache 2.0 Licensed
